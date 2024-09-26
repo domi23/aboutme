@@ -37,7 +37,7 @@ I am working on a game called *Curse of the Forgotten*. It will be an atmospheri
 ## 🖼️ Concept Art and Screenshots
 
 <p align="center">
-  <img src="[link_to_image1](https://i.postimg.cc/Bt9mX3rH/2024-09-26-160916.png)" alt="Curse of the Forgotten" width="600"/>
+  <img src="(https://i.postimg.cc/Bt9mX3rH/2024-09-26-160916.png)" alt="Curse of the Forgotten" width="600"/>
 </p>
 
 ## 📫 Contact Me
