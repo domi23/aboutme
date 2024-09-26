@@ -1,6 +1,6 @@
 # 👋 Welcome to My Profile!
 
-My name is [Your Name], and I am passionate about programming and game development.
+My nickname is Domi, and I am passionate about programming and game development.
 
 ## 🛠️ Skills
 
@@ -12,7 +12,7 @@ My name is [Your Name], and I am passionate about programming and game developme
 
 - **Languages:** C#, Python
 - **Learning:** C++
-- **Interested in:** Game development, Unity, network programming
+- **Interested in:** Game development, Unity, Network programming
 
 ## 🎯 My GitHub Streak
 
@@ -37,14 +37,7 @@ I am working on a game called *Curse of the Forgotten*. It will be an atmospheri
 ## 🖼️ Concept Art and Screenshots
 
 <p align="center">
-  <img src="link_to_image1" alt="Curse of the Forgotten" width="600"/>
-</p>
-
-## 😊 Additional Images
-
-<p align="center">
-  <img src="link_to_image2" alt="Fun Image 1" width="300"/>
-  <img src="link_to_image3" alt="Fun Image 2" width="300"/>
+  <img src="[link_to_image1](https://i.postimg.cc/Bt9mX3rH/2024-09-26-160916.png)" alt="Curse of the Forgotten" width="600"/>
 </p>
 
 ## 📫 Contact Me
