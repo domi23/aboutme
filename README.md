@@ -16,15 +16,21 @@ My name is [Your Name], and I am passionate about programming and game developme
 
 ## 🎯 My GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your_username&theme=dark&background=000000)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=domi23&theme=dark&background=000000)
 
 ## 🎮 Current Project: *Curse of the Forgotten*
 
 I am working on a game called *Curse of the Forgotten*. It will be an atmospheric PSX-style game with unique gameplay and an engaging storyline.
 
-### Development Status:
+## Development Status
 
-![Progress Bar](https://progress-bar.dev/30/?title=Progress)
+<div style="display: flex; align-items: center;">
+  <div style="width: 80%; height: 20px; background-color: #ddd; border-radius: 10px; overflow: hidden;">
+    <div style="width: 30%; height: 100%; background-color: #4caf50;"></div>
+  </div>
+  <span style="margin-left: 10px;">30%</span>
+</div>
+
 
 *Progress: 30%*
 
@@ -43,9 +49,7 @@ I am working on a game called *Curse of the Forgotten*. It will be an atmospheri
 
 ## 📫 Contact Me
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 🐦 Twitter: [@your_username](https://twitter.com/your_username)
-- 💼 LinkedIn: [Your Name](https://www.linkedin.com/in/your_username/)
+- 📧 Email: [swiftkey9702@gmail.com](mailto:swiftkey9702@gmail.com)
 
 ## 💡 My Quotes
 
@@ -59,4 +63,4 @@ I am working on a game called *Curse of the Forgotten*. It will be an atmospheri
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=domi23&show_icons=true&theme=dark)
