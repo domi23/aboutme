@@ -23,22 +23,7 @@ My nickname is Domi, and I am passionate about programming and game development.
 I am working on a game called *Curse of the Forgotten*. It will be an atmospheric PSX-style game with unique gameplay and an engaging storyline.
 
 ## Development Status
-
-<div style="display: flex; align-items: center;">
-  <div style="width: 80%; height: 20px; background-color: #ddd; border-radius: 10px; overflow: hidden;">
-    <div style="width: 30%; height: 100%; background-color: #4caf50;"></div>
-  </div>
-  <span style="margin-left: 10px;">30%</span>
-</div>
-
-
 *Progress: 30%*
-
-## 🖼️ Concept Art and Screenshots
-
-<p align="center">
-  <img src="(https://i.postimg.cc/Bt9mX3rH/2024-09-26-160916.png)" alt="Curse of the Forgotten" width="600"/>
-</p>
 
 ## 📫 Contact Me
 
